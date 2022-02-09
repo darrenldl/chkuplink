@@ -1,2 +1,2 @@
-# sshconncheck
-SSH connection checking utility
+# chkuplink
+Tiny server connection checker
